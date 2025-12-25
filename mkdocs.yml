@@ -1,8 +1,8 @@
 site_name: MkDocs Template
 site_description: "This is a template repository for documentation, wiki, knowledge base and technical blog using 'Material for MkDocs'."
-site_url: https://mkdocs.bybatkhuu.dev
-repo_name: bybatkhuu/docs-mkdocs-template
-repo_url: https://github.com/bybatkhuu/docs-mkdocs-template
+site_url: https://mkdocs.humblebeeai.dev
+repo_name: humblebeeai/docs-mkdocs-template
+repo_url: https://github.com/humblebeeai/docs-mkdocs-template
 theme:
   name: material
   # name: readthedocs
@@ -124,13 +124,13 @@ extra:
     provider: mike
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/bybatkhuu
+      link: https://github.com/humblebeeai
     - icon: fontawesome/brands/docker
-      link: https://hub.docker.com/u/bybatkhuu
+      link: https://hub.docker.com/u/humblebeeai
     - icon: fontawesome/brands/python
-      link: https://pypi.org/user/bybatkhuu
+      link: https://pypi.org/user/humblebeeai
     - icon: fontawesome/brands/x-twitter
-      link: https://x.com/bybatkhuu
+      link: https://x.com/humblebeeai
     - icon: fontawesome/brands/linkedin
-      link: https://www.linkedin.com/in/bybatkhuu
-copyright: Copyright &copy; 2025 - Batkhuu Byambajav
+      link: https://www.linkedin.com/in/humblebeeai
+copyright: Copyright &copy; 2025 - HumblebeeAI
